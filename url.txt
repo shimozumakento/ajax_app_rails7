@@ -1,0 +1,1 @@
+postgres://ajaxapp_production_kvi1_user:PNwNFdmLwLxTyjFwWmeHpNkJeuMZEaug@dpg-coov1l63e1ms73bimn8g-a/ajaxapp_production_kvi1
